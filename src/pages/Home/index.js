@@ -4,14 +4,14 @@ import React, {useState} from "react";
 const Index = () => {
   const [smiles1, setSmiles1] = useState("");
   const [smiles2, setSmiles2] = useState("");
-  const [result, setResult] = useState(null);
+ // const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
-  const [error, setError] = useState(null);
+ // const [error, setError] = useState(null);
 
   const handleSubmit = async () => {
     setLoading(true);
-    setError(null);
-    setResult(null);
+    //setError(null);
+   // setResult(null);
     
   };
 
