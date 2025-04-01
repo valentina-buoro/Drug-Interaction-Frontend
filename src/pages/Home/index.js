@@ -44,13 +44,13 @@ const Index = () => {
       </div>
       </div>
 
-      <div className="mx-auto mt-10 w-[500px]  text-[#50285a]">
+     {/* <div className="mx-auto mt-10 w-[500px]  text-[#50285a]">
       {error && <p className="text-red-500">{error}</p>}
         <ul className="list-disc">
           <li> The result of drug one</li>
           <li>{result}</li>
         </ul>
-      </div>
+      </div>*/}
     </div>
   );
 };
