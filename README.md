@@ -12,6 +12,7 @@ This repo contains code for the frontend of  D.D.I. Detective, the machine learn
 
 ## Installation
 
-- clone the repository ``
+- clone the repository `https://github.com/valentina-buoro/Drug-Interaction-Frontend.git`
+- go into the folder `cd Drug-Interaction-Frontend`
 - run `npm i` to download the development dependencies
 - run `npm run start` to run the application on your browser at http://localhost:3000
